@@ -5,5 +5,5 @@
 *.tmp
 *-backups/
 *.lck
-production
+production/
 

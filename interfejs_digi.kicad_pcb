@@ -60,10 +60,10 @@
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
-			(copper_finish "HAL SnPb")
+			(copper_finish "ENIG")
 			(dielectric_constraints no)
 		)
-		(pad_to_mask_clearance 0.1)
+		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(aux_axis_origin 73.4 206.022824)

@@ -8981,7 +8981,7 @@
 			)
 		)
 		(property "Value" "CP2105"
-			(at 0 5.91 270)
+			(at 0 5.91 90)
 			(layer "F.Fab")
 			(uuid "31ce1fbb-8b25-4b2d-b71e-21b93fba2c22")
 			(effects
@@ -8992,7 +8992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "26565b48-2561-4fa9-9441-e8d8ab7d427b")
@@ -9004,7 +9004,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7faf890d-71e9-4fb0-a557-317a8c178c74")
@@ -9354,7 +9354,7 @@
 			(uuid "a0431977-1611-4226-ad51-3f79d54fd838")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "ce1c0e07-daf2-40ff-b937-a10756d2618f")
 			(effects
@@ -9590,15 +9590,15 @@
 			(uuid "5d4667ac-af7c-4802-9a14-bb6f65973857")
 		)
 		(embedded_fonts no)
-		(model "/home/lupus/KiCad/interfejs_digi/footprints.pretty/.3dshapes/QFN-24_L4.0-W4.0-H0.9-P0.50.wrl"
+		(model "${PROJEKT}/CP2105.STEP"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 270)
+				(xyz -90 -0 -0)
 			)
 		)
 	)

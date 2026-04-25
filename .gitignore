@@ -4,4 +4,6 @@
 *.bak
 *.tmp
 *-backups/
+*.lck
+production
 

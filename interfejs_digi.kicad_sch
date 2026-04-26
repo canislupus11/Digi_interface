@@ -18938,7 +18938,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ADUM4160"
+		(property "Value" "ADUM3160"
 			(at 158.3533 78.74 0)
 			(effects
 				(font
@@ -18974,7 +18974,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C57791"
+		(property "LCSC" "C284149"
 			(at 153.67 92.71 0)
 			(effects
 				(font

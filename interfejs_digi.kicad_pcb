@@ -9590,7 +9590,7 @@
 			(uuid "5d4667ac-af7c-4802-9a14-bb6f65973857")
 		)
 		(embedded_fonts no)
-		(model "${PROJEKT}/CP2105.STEP"
+		(model "${KIPRJMOD}/footprints.pretty/CP2105.STEP"
 			(offset
 				(xyz 0 0 0)
 			)

@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/5c8d5020-0813-400c-bc13-7296174d83d3" />
-  <img width="45%" src="https://github.com/user-attachments/assets/1a03658d-e2db-4db3-a6f2-3fbca09909f1" />
+<img width="90%" alt="Screenshot_2026_04_27_18_02_24" src="https://github.com/user-attachments/assets/d2346672-8b12-413b-a32f-33d043b29789" /><br>
+<img width="44.8%" alt="Screenshot_2026_04_27_18_04_23" src="https://github.com/user-attachments/assets/5cd93266-0a1f-4302-8edf-c7c2cda590a0" />
+<img width="44.8%" alt="Screenshot_2026_04_27_18_05_19" src="https://github.com/user-attachments/assets/e639b91c-6500-4f8f-ba80-0d67318ef279" />
 </div>
 
 
@@ -20,8 +21,8 @@ Uniwersalny interfejs radiowy to otwarto-sprzętowy projekt płytki PCB, której
 ### Główne założenia
 
 - **Uniwersalność** – współpraca z szeroką gamą modeli TRX różnych producentów
-- **Minimalizacja okablowania** – w skrajnym przypadku wystarczy kabel USB, kabel sygnałowy do radia i zasilanie
-- **Pełna separacja galwaniczna** – izolacja zaraz za gniazdem USB chroni sprzęt przed przepięciami i biegającym RF; osobna separacja toru audio
+- **Minimalizacja okablowania** – w skrajnym przypadku wystarczy kabel USB i kabel sygnałowy do radia
+- **Pełna separacja galwaniczna** – izolacja zaraz za gniazdem USB chroni sprzęt przed przepięciami i biegającym RF
 
 ### Moduły
 
@@ -137,8 +138,8 @@ The Universal Radio Interface is an open-hardware PCB project designed to provid
 ### Design Goals
 
 - **Universality** – works with a wide range of TRX models from various manufacturers
-- **Minimal cabling** – in the simplest setup only a USB cable, a radio signal cable, and power supply are needed
-- **Full galvanic isolation** – isolation placed immediately after the USB connector protects equipment from voltage spikes and stray RF; the audio path is isolated separately
+- **Minimal cabling** – in the simplest setup only a USB cable and radio signal cable needed
+- **Full galvanic isolation** – isolation placed immediately after the USB connector protects equipment from voltage spikes and stray RF
 
 ### Modules
 

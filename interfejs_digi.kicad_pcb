@@ -28941,7 +28941,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "AUDIO_IN\nAUDIO_OUT\nGND\nPTT_OUT\n12V_IN\nGND_IN\nCAT_1_TX\nCAT_1_RX"
+	(gr_text "AUDIO_IN\nAUDIO_OUT\nGND\nPTT_OUT\nPWR_IN\nGND_IN\nCAT_1_TX\nCAT_1_RX"
 		(at 120.8 170.622824 270)
 		(layer "B.SilkS")
 		(uuid "1303ca3a-9ba4-4604-9f25-0e5a3bf38bb4")

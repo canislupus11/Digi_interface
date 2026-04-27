@@ -29381,7 +29381,7 @@
 		(uuid "aaf0e086-a690-4e2d-8f5e-e57f292c48d5")
 	)
 	(gr_line
-		(start 110.1625 44.247823)
+		(start 110.0125 44.197823)
 		(end 109.3625 47.447823)
 		(stroke
 			(width 0.15)
@@ -29391,8 +29391,8 @@
 		(uuid "fac9ee6c-ec5f-437d-ab95-a522c433a6c1")
 	)
 	(gr_line
-		(start 110.9625 46.047823)
-		(end 110.5625 47.647823)
+		(start 110.9625 45.897823)
+		(end 110.6125 47.497823)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -29421,8 +29421,8 @@
 		(uuid "ccd9338c-b22a-4641-b0f4-422c5209b2b1")
 	)
 	(gr_line
-		(start 114.1625 44.447823)
-		(end 114.3625 48.047823)
+		(start 114.1625 44.247823)
+		(end 114.5125 47.997823)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -29432,7 +29432,7 @@
 	)
 	(gr_line
 		(start 115.3625 46.047823)
-		(end 115.7125 50.247823)
+		(end 115.8125 50.497823)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -29441,8 +29441,8 @@
 		(uuid "d6443f16-7ad2-45bb-96a0-e727a9ea8d30")
 	)
 	(gr_line
-		(start 116.9625 46.647823)
-		(end 116.1625 44.447823)
+		(start 116.7625 46.647823)
+		(end 116.2125 44.197823)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -29452,7 +29452,7 @@
 	)
 	(gr_line
 		(start 117.7625 45.847823)
-		(end 118.1625 46.647823)
+		(end 118.3125 47.547823)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -29726,8 +29726,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "AUDIO_IN\nAUDIO_OUT\nGND\nPTT_OUT\nPWR_IN\nGND_IN\nCAT_1_TX\nCAT_1_RX"
-		(at 108.7625 53.247823 270)
+	(gr_text "AUDIO_IN\nAUDIO_OUT\nGND\nPTT_OUT\nPWR_IN\nGND_IN\nCAT_1_TX\nCAT_1_RX\n(CI-V)"
+		(at 107.4625 53.297823 270)
 		(layer "B.SilkS")
 		(uuid "1303ca3a-9ba4-4604-9f25-0e5a3bf38bb4")
 		(effects

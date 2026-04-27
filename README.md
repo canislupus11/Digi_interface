@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/5c8d5020-0813-400c-bc13-7296174d83d3" />
+  <img width="45%" src="https://github.com/user-attachments/assets/1a03658d-e2db-4db3-a6f2-3fbca09909f1" />
+</div>
+
+
 # Uniwersalny Interfejs Radiowy / Universal Radio Interface
 
 > Kraków, 31 sierpnia 2026 | Hackerspace Kraków  

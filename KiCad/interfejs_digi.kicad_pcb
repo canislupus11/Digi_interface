@@ -29957,7 +29957,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "LDO BYPASS"
+	(gr_text "LDO_BYPASS"
 		(at 130.9625 38.597823 0)
 		(layer "F.SilkS")
 		(uuid "49aa181c-70a6-4b95-bdaa-935eba65af55")

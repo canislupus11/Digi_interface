@@ -60,8 +60,8 @@ Interfejs wyprowadza sygnały na dwóch gniazdach RJ45 (HX-RJ45 90 5631-1X1 8P8C
 
 | Pin | Sygnał | Opis |
 |-----|--------|------|
-| 1 | CAT1\_RX | Odbieranie CAT/CI-V (port 1) |
-| 2 | CAT1\_TX | Nadawanie CAT/CI-V (port 1) |
+| 1 | CAT1\_RX | CAT RX/CI-V (port 1) |
+| 2 | CAT1\_TX | CAT TX (port 1) |
 | 3 | GND\_IN | Masa zasilania |
 | 4 | PWR\_IN | Zasilanie 7-18V (wejście) |
 | 5 | PTT\_OUT | Wyjście PTT (otwarty dren, tranzystor 2N7002) |
@@ -73,8 +73,8 @@ Interfejs wyprowadza sygnały na dwóch gniazdach RJ45 (HX-RJ45 90 5631-1X1 8P8C
 
 | Pin | Sygnał | Opis |
 |-----|--------|------|
-| 1 | CAT2\_RX | Odbieranie CAT (port 2) |
-| 2 | CAT2\_TX | Nadawanie CAT (port 2) |
+| 1 | CAT2\_RX | CAT RX (port 2) |
+| 2 | CAT2\_TX | CAT TX (port 2) |
 | 3 | FSK\_OUT | Wyjście FSK (otwarty dren, tranzystor 2N7002) |
 | 4 | – | Niepodłączony |
 | 5 | CW\_OUT | Wyjście kluczowania CW (otwarty dren, tranzystor 2N7002) |

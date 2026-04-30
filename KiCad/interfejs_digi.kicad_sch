@@ -8263,6 +8263,16 @@
 	)
 	(wire
 		(pts
+			(xy 469.9 251.46) (xy 478.79 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "541cc80c-4c64-4d4d-b36c-cedb6b1c725b")
+	)
+	(wire
+		(pts
 			(xy 402.59 231.14) (xy 406.4 231.14)
 		)
 		(stroke
@@ -15013,6 +15023,71 @@
 			(project "interfejs_digi"
 				(path "/7f52d787-caa3-4a92-b1b2-19d554dc29a4"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 469.9 251.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25cb9a4c-ed58-44c2-9918-8e745c220f40")
+		(property "Reference" "#PWR040"
+			(at 473.71 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 466.09 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 469.9 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 469.9 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 469.9 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e8b5a0aa-d20f-46b5-899f-d789a6112ab1")
+		)
+		(instances
+			(project "interfejs_digi"
+				(path "/7f52d787-caa3-4a92-b1b2-19d554dc29a4"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)

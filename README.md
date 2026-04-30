@@ -76,7 +76,7 @@ Interfejs wyprowadza sygnały na dwóch gniazdach RJ45 (HX-RJ45 90 5631-1X1 8P8C
 | 1 | CAT2\_RX | CAT RX (port 2) |
 | 2 | CAT2\_TX | CAT TX (port 2) |
 | 3 | FSK\_OUT | Wyjście FSK (otwarty dren, tranzystor 2N7002) |
-| 4 | – | Niepodłączony |
+| 4 | 5V_OUT | Wyjście 5V za stabilizatorem |
 | 5 | CW\_OUT | Wyjście kluczowania CW (otwarty dren, tranzystor 2N7002) |
 | 6 | – | Niepodłączony |
 | 7 | – | Niepodłączony |
@@ -197,7 +197,7 @@ The interface exposes signals on two RJ45 connectors (HX-RJ45 90 5631-1X1 8P8C).
 | 1 | CAT2\_RX | CAT receive (port 2) |
 | 2 | CAT2\_TX | CAT transmit (port 2) |
 | 3 | FSK\_OUT | FSK output (open drain, 2N7002 MOSFET) |
-| 4 | – | Not connected |
+| 4 | 5V_OUT | 5V output, after LDO |
 | 5 | CW\_OUT | CW keying output (open drain, 2N7002 MOSFET) |
 | 6 | – | Not connected |
 | 7 | – | Not connected |

@@ -3584,7 +3584,7 @@
 		(path "/06107f35-284c-4aee-9b58-ef4afbc3ff6c")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.075 5.08)
@@ -4586,7 +4586,7 @@
 		(path "/6a328796-05b7-47c7-83a8-803837be99de")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -5839,7 +5839,7 @@
 	(footprint "kibuzzard-69E7EA01"
 		(layer "F.Cu")
 		(uuid "408f6535-8768-4d3c-b503-484db5feb165")
-		(at 109.638295 75.747823 90)
+		(at 109.638295 75.547823 90)
 		(descr "Generated with KiBuzzard")
 		(tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMCwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjAsICJNdWx0aUxpbmVUZXh0IjogIlRYMiIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDEuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDAuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAwLjAsICJQYWRkaW5nVG9wQ3RybCI6IDEuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiB0cnVlLCAiaW5saW5lRm9ybWF0VGV4dGJveCI6IGZhbHNlLCAibGluZW92ZXJTdHlsZUNob2ljZSI6ICJSb3VuZGVkIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDB9")
 		(property "Reference" "kibuzzard-69E7EA01"
@@ -10513,7 +10513,7 @@
 		(path "/cad1615f-9890-466c-b0b4-2498c92cf57d")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.08 2.08)
@@ -15803,7 +15803,7 @@
 		(path "/9da43a7c-5aff-4552-8e2d-0a97682972a7")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -16140,7 +16140,7 @@
 	(footprint "kibuzzard-69E7E9BF"
 		(layer "F.Cu")
 		(uuid "b0a81f4b-fe18-4560-8b35-09993de0bef1")
-		(at 103.955257 75.747823 90)
+		(at 103.955257 75.547823 90)
 		(descr "Generated with KiBuzzard")
 		(tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMCwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjAsICJNdWx0aUxpbmVUZXh0IjogIlRYMSIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDEuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDAuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAwLjAsICJQYWRkaW5nVG9wQ3RybCI6IDEuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiB0cnVlLCAiaW5saW5lRm9ybWF0VGV4dGJveCI6IGZhbHNlLCAibGluZW92ZXJTdHlsZUNob2ljZSI6ICJSb3VuZGVkIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDB9")
 		(property "Reference" "kibuzzard-69E7E9BF"
@@ -16733,7 +16733,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D5"
-			(at -2.585 -0.1 0)
+			(at -2.585 0 0)
 			(layer "F.SilkS")
 			(uuid "e59acae8-5176-4f88-8c4e-b7834859b1c9")
 			(effects
@@ -18010,7 +18010,7 @@
 		(path "/7104bf52-01a0-4798-9306-77ec95115f75")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -19161,7 +19161,7 @@
 		(path "/8541a1a0-d9f0-452c-8732-de82051cfa11")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -19475,7 +19475,7 @@
 		(path "/00000000-0000-0000-0000-00005fe26ce4")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.61 -3.61)
@@ -21584,7 +21584,7 @@
 	(footprint "kibuzzard-69E7EA0C"
 		(layer "F.Cu")
 		(uuid "d42012df-c8b8-4e51-9b62-973fa465962d")
-		(at 106.0125 75.747823 90)
+		(at 106.0125 75.547823 90)
 		(descr "Generated with KiBuzzard")
 		(tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMCwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjAsICJNdWx0aUxpbmVUZXh0IjogIlJYMSIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDEuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDAuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAwLjAsICJQYWRkaW5nVG9wQ3RybCI6IDEuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiB0cnVlLCAiaW5saW5lRm9ybWF0VGV4dGJveCI6IGZhbHNlLCAibGluZW92ZXJTdHlsZUNob2ljZSI6ICJSb3VuZGVkIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDB9")
 		(property "Reference" "kibuzzard-69E7EA0C"
@@ -22399,7 +22399,7 @@
 		(path "/9e7734c4-2fbc-48d7-86e4-1f94a3f16874")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.86 5.26)
@@ -23520,7 +23520,7 @@
 	(footprint "kibuzzard-69E7EA14"
 		(layer "F.Cu")
 		(uuid "e31e8059-476e-4249-b426-4792ff3b0070")
-		(at 111.7125 75.747823 90)
+		(at 111.7125 75.547823 90)
 		(descr "Generated with KiBuzzard")
 		(tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6IDEuMCwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJMaW5lU3BhY2luZ0N0cmwiOiAxLjAsICJNdWx0aUxpbmVUZXh0IjogIlJYMiIsICJQYWRkaW5nQm90dG9tQ3RybCI6IDEuMCwgIlBhZGRpbmdMZWZ0Q3RybCI6IDAuMCwgIlBhZGRpbmdSaWdodEN0cmwiOiAwLjAsICJQYWRkaW5nVG9wQ3RybCI6IDEuMCwgIldpZHRoQ3RybCI6IDAuMCwgImFkdmFuY2VkQ2hlY2tib3giOiB0cnVlLCAiaW5saW5lRm9ybWF0VGV4dGJveCI6IGZhbHNlLCAibGluZW92ZXJTdHlsZUNob2ljZSI6ICJSb3VuZGVkIiwgImxpbmVvdmVyVGhpY2tuZXNzQ3RybCI6IDB9")
 		(property "Reference" "kibuzzard-69E7EA14"
@@ -24451,7 +24451,7 @@
 		(path "/7da239a0-1cc6-4949-bd59-346cde15537b")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -28071,7 +28071,7 @@
 		(path "/69b2e206-2d09-425f-a644-3c576c23ee91")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)

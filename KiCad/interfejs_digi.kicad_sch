@@ -7,7 +7,9 @@
 	(title_block
 		(title "Universal ham radio interface")
 		(date "2024-04-23")
+		(rev "0,6")
 		(company "Hackerspace Cracow Foundation")
+		(comment 1 "SQ9ZAQ")
 	)
 	(lib_symbols
 		(symbol "CP2105:CP2105"

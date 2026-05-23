@@ -857,7 +857,7 @@
       {
         "filename": "interfejs_digi.kicad_sch",
         "name": "interfejs_digi",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "7f52d787-caa3-4a92-b1b2-19d554dc29a4"
       }
     ],
     "used_designators": "",
@@ -866,7 +866,7 @@
   "sheets": [
     [
       "7f52d787-caa3-4a92-b1b2-19d554dc29a4",
-      "Root"
+      "interfejs_digi"
     ]
   ],
   "text_variables": {},

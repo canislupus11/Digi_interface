@@ -3584,7 +3584,7 @@
 		(path "/06107f35-284c-4aee-9b58-ef4afbc3ff6c")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2.075 5.08)
@@ -4586,7 +4586,7 @@
 		(path "/6a328796-05b7-47c7-83a8-803837be99de")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -10513,7 +10513,7 @@
 		(path "/cad1615f-9890-466c-b0b4-2498c92cf57d")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.08 2.08)
@@ -15803,7 +15803,7 @@
 		(path "/9da43a7c-5aff-4552-8e2d-0a97682972a7")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -18010,7 +18010,7 @@
 		(path "/7104bf52-01a0-4798-9306-77ec95115f75")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -19161,7 +19161,7 @@
 		(path "/8541a1a0-d9f0-452c-8732-de82051cfa11")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -19475,7 +19475,7 @@
 		(path "/00000000-0000-0000-0000-00005fe26ce4")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.61 -3.61)
@@ -22399,7 +22399,7 @@
 		(path "/9e7734c4-2fbc-48d7-86e4-1f94a3f16874")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.86 5.26)
@@ -24451,7 +24451,7 @@
 		(path "/7da239a0-1cc6-4949-bd59-346cde15537b")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -28071,7 +28071,7 @@
 		(path "/69b2e206-2d09-425f-a644-3c576c23ee91")
 		(sheetname "/")
 		(sheetfile "interfejs_digi.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)
